@@ -25,5 +25,6 @@ public class ImportExample {
         out.println("The min value between 14 and 14.5 is :"+min(14,14.5));
         out.println("The Name from config is :"+NAME);
         printConfig();
+        out.println("Lesson done");
     }
 }
