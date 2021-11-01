@@ -12,6 +12,10 @@ import static java.lang.System.out;
  * Include Static Import and normal import examples
  */
 public class ImportExample {
+    /**
+     *
+     * @param args Command Line arguments passed
+     */
     public static void main(String[] args) {
 
         // Static imports are used for importing static members.
